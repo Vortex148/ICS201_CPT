@@ -74,9 +74,9 @@
     },
 
     {
-      "contents" : "What is an example of a Linux based operating system",
-      "choices" : ["Ubuntu", "Windows", "MacOS"],
-      "correct" : ["Ubuntu"]
+      "contents" : "What are the three types of errors: ",
+      "choices" : ["Syntax, Logical, Funtime", "Syntax, Logical, Runtime", "Syntax, Illogical, Runtime", "Syntax, Illogical, Funtime"],
+      "correct" : ["Syntax, Logical, Runtime"]
     },
 
     {

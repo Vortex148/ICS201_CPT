@@ -164,7 +164,7 @@ def prev_wrong():
             if buff.count(incorrect_questions[i]) == 0:
                 buff.append(incorrect_questions[i])
         for i in buff:
-            print(f'''--> You got "{data[i]['contents']}" with the correct choice being "{data[i]['correct']}" wrong {incorrect_questions.count(i)} time/s\n''')
+            print(f'''--> You got "{data[i]['contents']}" with the correct choice being "{data[i]['correct'][0]}" wrong {incorrect_questions.count(i)} time/s\n''')
     input()
     clear_console()
 
@@ -196,7 +196,6 @@ time.sleep(4)
 
 
 while user_status != "/q":
-    clear_console()
     print("LOCATION: HUB")
     user_status = input("Enter your desired command hub command (/h for command list): ")
 
