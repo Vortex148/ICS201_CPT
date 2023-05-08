@@ -1,0 +1,114 @@
+{
+  "questions" : [
+
+    {
+      "contents" : "What is an example of a Linux based operating system:",
+      "choices" : ["Ubuntu", "Windows", "MacOS"],
+      "correct" : ["Ubuntu"]
+    },
+
+    {
+      "contents" : "What does LAN stand for:",
+      "choices" : ["Local Area Network", "Local Area Networking", "Local Around Network"],
+      "correct" : ["Local Area Network"]
+    },
+
+    {
+      "contents" : "Booleans can be only True or False:",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
+    },
+
+    {
+      "contents" : "What four major processing functions in order:",
+      "choices" : ["Input, Processing, Output, Storage", "Input, Processing, Storage, Output", "Input, Output, Processing, Storage", "Input, Output, Storage, Processing" ],
+      "correct" : ["Input, Processing, Output, Storage"]
+    },
+
+    {
+      "contents" : "The CPU consists of the CU and the ALU:",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
+    },
+
+    {
+      "contents" : "What are the two forms that information can possess:",
+      "choices" : ["Hardcopy, Softcopy", "Softcopy, Onlinecopy","Digitalcopy, Softcopy", "Digitalcopy, Onlinecopy"],
+      "correct" : ["Hardcopy, Softcopy"]
+    },
+
+    {
+      "contents" : "There are five types of computers:",
+      "choices" : ["True", "False"],
+      "correct" : ["False"]
+    },
+
+    {
+      "contents" : "What are the two main types of system software:",
+      "choices" : ["Operating Systems, Utility Software", "Operating Systems, Performance Software", "Performance Software, Utility Software", "Operating system, Development Software"],
+      "correct" : ["Operating Systems, Utility Software"]
+    },
+
+    {
+      "contents" : "WLAN is an example of a operating system:",
+      "choices" : ["True", "False"],
+      "correct" : ["False"]
+    },
+
+    {
+      "contents" : "Programming ide is a type of software:",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
+    },
+
+    {
+      "contents" : "An IF statement can be True or False:",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
+    },
+
+    {
+      "contents" : "For loops go on until a condition is met:",
+      "choices" : ["True", "False"],
+      "correct" : ["False"]
+    },
+
+    {
+      "contents" : "What is an example of a Linux based operating system",
+      "choices" : ["Ubuntu", "Windows", "MacOS"],
+      "correct" : ["Ubuntu"]
+    },
+
+    {
+      "contents" : "What is an example of a Linux based operating system",
+      "choices" : ["Ubuntu", "Windows", "MacOS"],
+      "correct" : ["Ubuntu"]
+    },
+
+    {
+      "contents" : "What is an example of a Linux based operating system",
+      "choices" : ["Ubuntu", "Windows", "MacOS"],
+      "correct" : ["Ubuntu"]
+    },
+
+    {
+      "contents" : "What is an example of a Linux based operating system",
+      "choices" : ["Ubuntu", "Windows", "MacOS"],
+      "correct" : ["Ubuntu"]
+    }
+  ],
+
+  "question_givers" : [
+    "Ms.Pozzebon",
+    "Adrian",
+    "Uncle Hovanes",
+    "Peter Parente"
+  ],
+
+  "locations": [
+    "Adrian's basement",
+    "School",
+    "Ms.Pozzebon's class",
+    "Fishing lake"
+  ]
+}
