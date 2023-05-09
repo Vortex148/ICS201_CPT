@@ -80,21 +80,21 @@
     },
 
     {
-      "contents" : "What is an example of a Linux based operating system",
-      "choices" : ["Ubuntu", "Windows", "MacOS"],
-      "correct" : ["Ubuntu"]
+      "contents" : "Malware is short for malicious software: ",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
     },
 
     {
-      "contents" : "What is an example of a Linux based operating system",
-      "choices" : ["Ubuntu", "Windows", "MacOS"],
-      "correct" : ["Ubuntu"]
+      "contents" : "Two common sources of malware are: ",
+      "choices" : ["downloading/running an infected file, buying a new antivirus software", "updating Windows, downloading new software ", "downloading/running an infected file, opening an e-mail attachment"],
+      "correct" : ["downloading/running an infected file, opening an e-mail attachment"]
     },
 
     {
-      "contents" : "What is an example of a Linux based operating system",
-      "choices" : ["Ubuntu", "Windows", "MacOS"],
-      "correct" : ["Ubuntu"]
+      "contents" : "Computers can be used to type documents, send emails, play games, and browse the web",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
     }
   ],
 

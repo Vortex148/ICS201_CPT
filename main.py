@@ -1,7 +1,7 @@
 import json
 import random
 import time
-
+import os
 
 '''
 
@@ -9,11 +9,11 @@ import time
 
 Name:  main.py
 
-Purpose: Calculates fees when spending money in the US
+Purpose: A adventure game that involves answers questions about topic we learned this year
 
 Author:   John Szewczyk
 
-Created:  19/04/2023
+Created:  09/05/2023
 
 ------------------------------------------------------------------------------
 '''
@@ -55,8 +55,9 @@ class question():
 def clear_console():
     # TODO - John take a look at this, Alex
     #  https://stackoverflow.com/questions/2084508/clear-terminal-in-python
-    #  print(chr(27) + "[2J")
-    print("\n\n\n\n\n\n\n\n\n\n\n")
+    # print(chr(27) + "[2J")
+    # Thanks for help - John
+    os.system('cls' if os.name == "nt" else 'clear')
 
 
 def open_store():
