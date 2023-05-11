@@ -101,6 +101,7 @@ def open_store():
 
 
 def request_question():
+    global has_double_score
     global score
     global business_bucks
     global incorrect_questions
@@ -124,6 +125,10 @@ def request_question():
         print(f"{i + 1}) {question.question['choices'][i]}")
     choice = int(input())
     if question.question['choices'][choice - 1] == question.question['correct'][0]:
+        if has_double_score == True:
+            question.score_gain = question.score_gain * 2
+            question.business_buck_gain = question.business_buck_gain * 2
+            has_double_score = False
         print(f'Correct! +{question.score_gain} score and +{question.business_buck_gain} business bucks')
         score += question.score_gain
         business_bucks += question.business_buck_gain

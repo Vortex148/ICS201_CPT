@@ -92,8 +92,86 @@
     },
 
     {
-      "contents" : "Computers can be used to type documents, send emails, play games, and browse the web",
+      "contents" : "Computers can be used to type documents, send emails, play games, and browse the web: ",
       "choices" : ["True", "False"],
+      "correct" : ["True"]
+    },
+
+    {
+      "contents" : "A computer is an electronic devices that does not manipulate information or data: ",
+      "choices" : ["True", "False"],
+      "correct" : ["False"]
+    },
+
+    {
+      "contents" : "A simple rack of beads used as an aid to counting by moving the beads around: ",
+      "choices" : ["Astrolabe", "Abacus", "Mechanical Calculator", "Jacquard Loom"],
+      "correct" : ["Abacus"]
+    },
+
+    {
+      "contents" : "First programmable mechanical computer: ",
+      "choices" : ["Turning Machine", "Abacus", "Analytical Engine", "Jacquard Loom"],
+      "correct" : ["Analytical Engine"]
+    },
+
+    {
+      "contents" : "A bit consisits of a 0,1,2, or 3: ",
+      "choices" : ["True", "False"],
+      "correct" : ["False"]
+    },
+
+    {
+      "contents" : "How many bits are in one byte: ",
+      "choices" : ["64", "32", "16", "8"],
+      "correct" : ["8"]
+    },
+
+    {
+      "contents" : "How many bytes are in 1 killobyte: ",
+      "choices" : ["1000", "1024", "2048", "4096"],
+      "correct" : ["1024"]
+    },
+
+    {
+      "contents" : "What doe MHz and GHz measure: ",
+      "choices" : ["Processing speed", "RAM", "CPU", "Storage"],
+      "correct" : ["Processing speed"]
+    },
+
+    {
+      "contents" : "What does PPI stand for: ",
+      "choices" : ["Pixels Per Inch", "Pixels Per square Inch", "People Per Inch", "Processors Per Inch"],
+      "correct" : ["Pixels Per Inch"]
+    },
+
+    {
+      "contents" : "What is an example of a resolution that you might see on a common display: ",
+      "choices" : ["1920x1080", "1080x1080", "1920x2160", "2160x1080"],
+      "correct" : ["1920x1080"]
+    },
+
+    {
+      "contents" : "On-chip memory is the highest on the memory hierarchy",
+      "choices" : ["True", "False"],
+      "correct" : ["True"]
+    },
+
+    {
+      "contents" : "A CPU with a clock speed of 3.6 GHz and 2 cores is better then a CPU with a speed of 4.5 GHz and 64 cores",
+      "choices" : ["True", "False"],
+      "correct" : ["False"]
+    },
+
+    {
+      "contents" : "What does ROM stand for",
+      "choices" : ["Write Only Memory", "Random Only Memory", "Read Only Memory", "Radius Of Molecular Circle"],
+      "correct" : ["Read Only Memory"]
+    },
+
+    {
+      "contents" : "What does EEPROM stand for",
+      "choices" : ["Electronically Disabled Erasable Programmable Read Only Memory", "Electronically Ereadable Programmable Read Only Memory", "Electronically Erasable Programmable Read Only Memory "],
       "correct" : ["True"]
     }
   ],
