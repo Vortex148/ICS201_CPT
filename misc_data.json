@@ -146,7 +146,7 @@
     },
 
     {
-      "contents" : "What is an example of a resolution that you might see on a common display: ",
+      "contents" : "What is an example of a resolution that you might see on a common 16:9 display: ",
       "choices" : ["1920x1080", "1080x1080", "1920x2160", "2160x1080"],
       "correct" : ["1920x1080"]
     },
